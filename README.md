@@ -13,6 +13,8 @@ I used his code with some little modifications:
 
 And will try to implement GPS, Compass, and Camera for Autonomous operations and Object detection in the future.
 
+Video of robot in action: https://www.youtube.com/watch?v=WRrCFbOrWbA
+
 Components:
 1 X Arduino Uno
 1 X Arduino Nano
