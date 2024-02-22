@@ -10,6 +10,7 @@ I used Joop Brokking's balancing robot project (YABR - Your Arduino Balancing Ro
 I used his code with some little modifications:
 - I used the NRF24L01 radio transmission instead of the Bluetooth to Nunchuk
 - I used the pin mappings of A4988 drivers with my CNC Shield whereas he used directly his DRV8825 drivers
+
 And will try to implement GPS, Compass, and Camera for Autonomous operations and Object detection in the future 😊.
 
 ▶️ Video of robot in action: https://www.youtube.com/watch?v=WRrCFbOrWbA
