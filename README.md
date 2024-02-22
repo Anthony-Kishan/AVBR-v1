@@ -12,5 +12,5 @@ I used his code with some little modifications:
 - I used the pin mappings of A4988 drivers with my CNC Shield whereas he used directly his DRV8825 drivers
 
 ▶️ Video of robot in action: https://www.youtube.com/watch?v=WRrCFbOrWbA
-
+🌐 Robot on my project blog: https://anthonykishan.blogspot.com/p/project-avbr-autonomous-versatile.html
 And will try to implement GPS, Compass, and Camera for Autonomous operations and Object detection in the future 😊.
