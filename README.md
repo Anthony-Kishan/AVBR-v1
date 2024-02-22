@@ -1,5 +1,6 @@
 # AVBR-v1
 Project AVBR (Autonomous Versatile Balancing Robot) is a self-balancing robot controlled by Radios.
+
 First of all thanks to  @Joop_Brokking  for this awesome project. His YABR (Your Arduino Balancing Robot) project inspired me and I tried to make one for myself.
 
 I know this robot isn't autonomous, but this is 1% of my main project. I want to build an object detection autonomously controlled balancing robot that can be used as a versatile bot (Monitoring, and Inspection).
